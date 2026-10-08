@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a Staff Software Engineer at Redcare Pharmacy <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6b9213df-65e2-4cfa-a9ad-8b9db65a231b" />
+I am a Staff Software Engineer at Redcare Pharmacy.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anjeyy&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anjeyy&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anjeyy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anjeyy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anjeyy&theme=dark)](https://git.io/streak-stats)
 
