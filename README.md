@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I am a Staff Software Engineer at Redcare Pharmacy <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/93c94289-a7ce-4da4-a49f-4410418071da" />.
+I am a Staff Software Engineer at Redcare Pharmacy <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6b9213df-65e2-4cfa-a9ad-8b9db65a231b" />
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anjeyy)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anjeyy&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anjeyy&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anjeyy&theme=dark)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anjeyy&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anjeyy&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anjeyy&layout=compact&langs_count=4&theme=dark_github)
 
 
 <!--
