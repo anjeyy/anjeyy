@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-I am a Staff Software Engineer at Redcare Pharmacy <img width="760" height="760" alt="image" src="https://github.com/user-attachments/assets/93c94289-a7ce-4da4-a49f-4410418071da" />.
+I am a Staff Software Engineer at Redcare Pharmacy <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/93c94289-a7ce-4da4-a49f-4410418071da" />.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anjeyy)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anjeyy)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anjeyy&theme=dark)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anjeyy&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **anjeyy/anjeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
