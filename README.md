@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a Staff Software Engineer at Redcare Pharmacy <img width="760" height="760" alt="image" src="https://github.com/user-attachments/assets/93c94289-a7ce-4da4-a49f-4410418071da" />.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anjeyy)](https://git.io/streak-stats)
+
 <!--
 **anjeyy/anjeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
